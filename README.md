@@ -3,7 +3,7 @@
 
 ![](https://cloud.githubusercontent.com/assets/8740775/26766365/14796b54-4999-11e7-8ca2-9428a45878ab.png)  
 
-PyCNC is a free open-source high-performance G-code interpreter and
+YAYY! PyCNC is a free open-source high-performance G-code interpreter and
 CNC/3D-printer controller. It can run on a variety of Linux-powered ARM-based
 boards, such as Raspberry Pi, Odroid, Beaglebone and others. This gives you a
 flexibility to pick a board you are most familiar with, and use everything
